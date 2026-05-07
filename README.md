@@ -83,18 +83,27 @@ Personal finance tracker with category breakdowns, monthly summaries, and intera
  
 First-person 3D maze game with collectibles, an animated black hole exit portal, a hologram-shader wraith enemy, and crystal spike obstacles — built outside work to sharpen game-loop architecture and 3D rendering skills.
  
-🔗 [Live Demo](https://maze-game-3d.netlify.app/)
+🔗 [Live Demo](https://maze-game-3d.netlify.app/) · [Repo](https://github.com/jarquecarl/maze-game)
  
 ---
  
 ## Certifications
  
-- 🤖 AI Learning Modules (12 hrs) — AIClassASEAN
-- 🌏 AI Ready ASEAN Seminar — Hello, AI World
-- 🐟 Hour of Code: AI for Oceans — Code.org
-- 💻 4-Hr Hour of Code — DICT Region 2
-- 🌐 International Experts Sharing Meeting — SEAMEO TED
+| Certificate | Issuer | Type |
+|---|---|---|
+| [AI Learning Modules (12 hrs)](https://github.com/jarquecarl/jarquecarl/blob/main/certs/certificate-12hr_.png) | ASEAN Foundation · AIClassASEAN | Completion |
+| [AI Ready ASEAN Seminar — Hello, AI World](https://github.com/jarquecarl/jarquecarl/blob/main/certs/AI_Ready_ASEAN_Seminar.PNG) | ASEAN Foundation · Limitless Lab | Participation |
+| [Hello, AI World Webinar](https://github.com/jarquecarl/jarquecarl/blob/main/certs/Hello__AI_World.PNG) | San Sebastian College — CGATE | Participation |
+| [Hour of Code — AI Ready ASEAN Programme](https://github.com/jarquecarl/jarquecarl/blob/main/certs/BTFM_x_AI_Ready_ASEAN_Programme_Certificate.png) | ASEAN Foundation · Break the Fake Movement | Participation |
+| [Hour of Code — AI for Oceans](https://github.com/jarquecarl/jarquecarl/blob/main/certs/Hour_of_Code.PNG) | Code.org | Completion |
+| [4-Hour Hour of Code](https://github.com/jarquecarl/jarquecarl/blob/main/certs/4-hour_Hour_of_Code.PNG) | DICT Region 2 · ILCDB | Completion |
+| [Int'l Experts Sharing Meeting — Automation & Intelligent Control](https://github.com/jarquecarl/jarquecarl/blob/main/certs/International_Experts_Sharing_Meeting.PNG) | SEAMEO TED · Go Study | Participation |
+| [Int'l Perspectives Series — Solar Chimney Dryer Webinar](https://github.com/jarquecarl/jarquecarl/blob/main/certs/International_Perspective_Series_Webinar.PNG) | Go Study Global Education | Participation |
+| [Computer Architecture Seminar](https://github.com/jarquecarl/jarquecarl/blob/main/certs/Computer_Architecture.PNG) | Southern Philippines Inst. of Science and Technology | Participation |
+ 
 ---
  
 <div align="center">
 *Open to junior frontend roles — let's build something useful.*
+ 
+</div>
