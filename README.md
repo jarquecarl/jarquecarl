@@ -5,7 +5,7 @@
 
 *Fresh CE grad building responsive, data-driven web apps — currently digitizing internal workflows at HS Technologies (Phils.), Inc.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-carl--jarque--portfolio.netlify.app-0ea5e9?style=flat-square&logo=netlify&logoColor=white)](https://carl-jarque-portfolio.netlify.app)
+🔗 [Personal Portfolio](https://jarque-portfolio.web.app/) · [Recruiter Portfolio](https://carl-jarque-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carl--jarque-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carl-jarque-6b65b63bb)
 [![Email](https://img.shields.io/badge/Email-jarquecarl@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jarquecarl@gmail.com)
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Computer Engineering graduate focused on frontend development — I enjoy building clean, maintainable UIs that solve real problems. Currently working as a **Frontend Dev Intern at HS Technologies (Phils.), Inc.**, where I'm leading the development of an MRF Digitalization system that replaces paper-based workflows with a real-time React + Firebase web app.
+I'm a Computer Engineering graduate focused on frontend development — I enjoy building clean, maintainable UIs that solve real problems. Currently working as a **Frontend Dev Intern at HS Technologies (Phils.), Inc.**, where I'm one of the developers of the MRF Digitalization system that replaces paper-based workflows with a real-time React + Firebase web app.
 
 I'm passionate about AI-powered products, hold AI certifications from the ASEAN Foundation, and actively integrate AI tooling into my development workflow.
 
