@@ -5,7 +5,7 @@
 
 *Fresh CE grad building responsive, data-driven web apps — currently digitizing internal workflows at HS Technologies (Phils.), Inc.*
 
-🔗 [Personal Portfolio](https://jarque-portfolio.web.app/) · [Recruiter Portfolio](https://carl-jarque-portfolio.netlify.app)
+🔗 [Personal Portfolio](https://jarquecarl.netlify.app/) · [Recruiter Portfolio](https://carl-jarque-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carl--jarque-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carl-jarque-6b65b63bb)
 [![Email](https://img.shields.io/badge/Email-jarquecarl@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jarquecarl@gmail.com)
 
