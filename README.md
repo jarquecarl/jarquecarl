@@ -88,7 +88,7 @@ Frontend monitoring dashboard for a PYNQ-Z2 ARM-FPGA phishing detection system. 
 ---
 
 ### 💸 Fundo — Expense Tracker
-> React · JavaScript · Recharts · Tailwind CSS · Vite · Firebase
+> React · TypeScript · Recharts · Tailwind CSS · Vite · Firebase
 
 Personal finance tracker with category breakdowns, monthly summaries, and interactive Recharts visualizations. Navy + cyan dark theme with glassmorphism UI.
 
